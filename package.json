@@ -1,0 +1,15 @@
+{
+  "name": "imagedit-free",
+  "version": "1.0.1",
+  "description": "Free image editor, with some functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "falafelraider",
+  "license": "ISC",
+  "dependencies": {
+    "electron-screenshot": "^1.0.4",
+    "image-size": "^0.5.4"
+  }
+}
